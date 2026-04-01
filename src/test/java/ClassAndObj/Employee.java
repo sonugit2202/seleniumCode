@@ -16,6 +16,6 @@ public class Employee {
         employee.salary = 0.00;
         employee.active = true;
         System.out.println("Employee Name : "+ employee.name + " Emp_Age " +  employee.age+ "Emp_salary "+ employee.salary +"employee is active : "+ employee.active);
-
+        System.out.println("Code change for 6 PP");
     }
 }

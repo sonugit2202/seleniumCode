@@ -10,7 +10,7 @@ public class ArrayConcept {
         //array:
         //1. static Array: Size is fixed
         //2. Dynamic Array : Dynamic Size
-
+        System.out.println("Code changes in other file for 6 PP feature");
         int[] arr = new int[5];
         System.out.println(arr);
         arr[0]= 10;
