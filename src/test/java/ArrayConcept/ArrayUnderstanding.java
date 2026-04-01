@@ -26,6 +26,7 @@ public  class ArrayUnderstanding {
 
     public static void main(String[] args) {
         String str = "There is there is a model";
+        System.out.println("Git status checked");
         ArrayUnderstanding arr = new ArrayUnderstanding();
         arr.wordsOccurrenceCount(str);
     }
